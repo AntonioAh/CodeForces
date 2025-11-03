@@ -30,9 +30,6 @@ void testcase(){
   }
 
   cout << count << "\n";
-
-  
-  
 }
 
 int main(){
